@@ -14,4 +14,6 @@ const getMe = (token) => {
   return user;
 };
 
-// Auth
+const addCourses = () =>{
+  return true;
+}
